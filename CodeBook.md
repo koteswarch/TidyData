@@ -10,6 +10,8 @@ Below are the input files and along with their descriptions. All these files are
 4. features.txt : Has names for all the vector quantities measured.
 5. activity_labels.txt : Contains the six activities performed by the participants - Walking, Walking Upstairs, Walking Downstairs, Sitting, Standing and Laying.
 
+Script Used and Final Output Data:
+
 run_analysis.R : R script file that can be used to reproduce the expected tidy data. 
 tidyActivityData.csv : This file contains the final activity data. It contains one observation per subject and activity. There are a total of 180 observations and 88 variables. 
 
